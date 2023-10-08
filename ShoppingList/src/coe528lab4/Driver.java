@@ -2,7 +2,7 @@ package coe528lab4;
 
 /**
  *
- * @author Asif Choudhury, 501111719
+ * @author Asif Choudhury
  */
 public class Driver {
     public static void main(String[] args) {
