@@ -2,7 +2,7 @@ package coe528lab4;
 
 /**
  *
- * @author Asif Choudhury, 501111719
+ * @author Asif Choudhury
  */
 public abstract class FoodComponent {
     private String foodName;
