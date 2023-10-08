@@ -2,7 +2,7 @@ package coe528lab4;
 
 /**
  *
- * @author Asif Choudhury, 501111719
+ * @author Asif Choudhury
  */
 public class FoodItem extends FoodComponent {
     private String foodName;
