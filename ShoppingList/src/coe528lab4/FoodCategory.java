@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Asif Choudhury, 501111719
+ * @author Asif Choudhury
  */
 public class FoodCategory extends FoodComponent {
     private String category;
