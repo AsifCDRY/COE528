@@ -7,7 +7,7 @@ import java.io.FileWriter;
 
 /**
  *
- * @author Asif Choudhury, 501111719
+ * @author Asif Choudhury
  */
 public class Record {
     // Name of the associated file
